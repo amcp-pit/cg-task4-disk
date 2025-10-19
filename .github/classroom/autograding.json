@@ -2,7 +2,7 @@
   "tests": [
     {
       "name": "Test 1",
-      "setup": "g++ ./disk.cpp -o disk -O2 -pedantic-errors",
+      "setup": "",
       "run": "./disk tests/in1.txt out1.bmp",
       "input": "",
       "output": "",
